@@ -1,14 +1,9 @@
-# Developers Conference 2023 - Linux Bootcamp
+# Dereck Lam Hon Wah - Speaker Talks
 
-An intense 2-hours Linux bootcamp fully packed with information essential to boosting one's career as a Linux System Administrator by Ish Sookun.
+## 2023
 
-![Cover](images/cover.jpeg)
-![Agenda](images/agenda.jpeg)
+- MSCC - Developers Conference 2023 - Linux Bootcamp ( <https://conference.mscc.mu/agenda/454720> )
 
-Demos will be carried on openSUSE and Ubuntu virtual machines.
+## 2024
 
-Bootcamp volunteers: Jain Ramchurn, Dereck Lam and Shravan Dwarka. 
-
-## Credits
-
-- Cover and Agenda Slides from [Ish Sookun](https://github.com/ishwon).
+- Frontend.mu - February Meetup - 
