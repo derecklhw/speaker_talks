@@ -6,4 +6,4 @@
 
 ## 2024
 
-- Frontend.mu - February Meetup - 
+- Frontend.mu - February Meetup - GIT LFS Large File Storage Management in Version Control
